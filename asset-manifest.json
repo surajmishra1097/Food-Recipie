@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Recipie/static/css/main.6dea312b.css",
+    "main.js": "/Food-Recipie/static/js/main.0443d01a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Food-Recipie/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Food-Recipie/index.html",
+    "main.6dea312b.css.map": "/Food-Recipie/static/css/main.6dea312b.css.map",
+    "main.0443d01a.js.map": "/Food-Recipie/static/js/main.0443d01a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Food-Recipie/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dea312b.css",
+    "static/js/main.0443d01a.js"
+  ]
+}
